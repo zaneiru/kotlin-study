@@ -1,6 +1,5 @@
 package com.study.example.example_when
 
-
 class WhenExample() {
     // case 1
     fun when_case1() {
@@ -24,10 +23,8 @@ class WhenExample() {
     }
 }
 
-
 fun main (args: Array<String>) {
     val whenExample = WhenExample()
     whenExample.when_case1() // 0 이기 때문에 0만 찍히는걸로 된다.
     whenExample.when_case2() // 0 이기 때문에 0 or 1찍히는걸로 된다.
 }
-
