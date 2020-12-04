@@ -1,7 +1,6 @@
 package com.study.example
 
 class when_example {
-
     // 자바에서의 switch case
     /*
     * switch-case 의 최대 단점으로 생각 했던 것 은
